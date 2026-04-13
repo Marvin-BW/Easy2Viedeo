@@ -6,6 +6,8 @@
 
 A powerful Chinese science explainer video generation tool. Automatically generate high-quality videos with custom animations, TTS voiceover, and synchronized subtitles by simply inputting a topic or Markdown script.
 
+https://github.com/user-attachments/assets/c5c1dc56-4f54-4f29-90c6-88f3e5534c56
+
 ## 🎯 Features
 
 - **Automatic Script Generation**: Generate science explanation scripts from topics (Chinese)
