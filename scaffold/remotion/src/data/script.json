@@ -1,0 +1,15 @@
+{
+  "title": "Placeholder",
+  "fps": 30,
+  "totalDurationInFrames": 150,
+  "segments": [
+    {
+      "id": "placeholder",
+      "type": "title",
+      "text": "Placeholder",
+      "narration": "Placeholder",
+      "startFrame": 0,
+      "endFrame": 150
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "science-video",
+  "version": "1.0.0",
+  "description": "Science explainer video generator - Remotion + Qwen3-TTS",
+  "scripts": {
+    "start": "npx remotion studio",
+    "build": "npx remotion render ScienceVideo out/video.mp4",
+    "build:preview": "npx remotion render ScienceVideo out/preview.mp4 --frames=0-150"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@remotion/player": "^4.0.0",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "remotion": "^4.0.0",
+    "remotion-subtitle": "^1.0.0",
+    "recharts": "^2.12.0",
+    "srt-parser-2": "^1.2.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.0",
+    "typescript": "^5.4.0",
+    "prettier": "^3.2.0"
+  }
+}
