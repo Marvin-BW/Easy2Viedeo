@@ -1,10 +1,11 @@
 
-https://github.com/user-attachments/assets/c5c1dc56-4f54-4f29-90c6-88f3e5534c56
 # Science Video Generator
 
 **一键生成高质量科学解释视频的 Claude Code Skill** ⚡
 
 一个强大的中文科学解释视频生成工具。通过输入主题或 Markdown 脚本，自动生成包含自定义动画、TTS 语音和字幕的高质量视频。
+
+https://github.com/user-attachments/assets/c5c1dc56-4f54-4f29-90c6-88f3e5534c56
 
 ## 🎯 功能特性
 
@@ -92,18 +93,6 @@ npm install
 ## 📹 示例输出
 
 **输入主题：** `什么是物理学中的最小单位`
-
-<video width="100%" controls style="max-width: 800px; margin: 20px 0; border-radius: 8px;">
-  <source src="video.mp4" type="video/mp4">
-  您的浏览器不支持视频标签。请升级浏览器或直接下载视频文件。
-</video>
-
-<video src="https://github.com/user-attachments/assets/25a4f724-0a4b-4f6a-8145-e86c9d809946" width="100%" controls autoplay loop muted></video>
-
-
-
-
-
 **输出：** `video.mp4` - 自动生成的高质量科学解释视频（包含自定义动画、TTS 语音配音和同步字幕）
 
 这个视频完全由工具自动生成，用户只需提供一句话主题，工具就会：
